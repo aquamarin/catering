@@ -1,0 +1,93 @@
+body{
+    background-image: url("http://www.planwallpaper.com/static/images/518097-background-hd.jpg");
+}
+.conteiner{
+    border: 3px solid salmon;
+    width:1000px;
+    margin:20px auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+}
+.header{
+    height: 95px;
+}
+.header img{
+    float: left;
+    border-radius: 10px 0px 0px 0px;
+}
+.menu{
+    float: right;
+    margin: 30px 100px;
+
+}
+.footer{
+    margin: 10pt;
+    height: 50px;
+}
+.content{
+    margin:10px;
+}
+.nameOfCampany{
+    float: left;
+    width: 400px;
+    border:2px solid #A5ADAD;
+}
+.mainContent{
+    width: 500px;
+    float: left;
+    border:2px solid #A5ADAD;
+    margin-left: 10px;
+
+}
+.likedCompany{
+    margin:20pt auto;
+    border:2px solid #A5ADAD;
+    width:750px;
+
+}
+.likedCompany img{
+    width: 150px;
+    margin: 10px 35pt;
+}
+.link img{
+    width:100px;
+    height: 100px;
+    float: left;
+}
+.link {
+    margin:10px 5px;
+    border: 2px solid darkgrey;
+    box-shadow: 3px 3px maroon;
+}
+.addedLast img{
+    width:100px;
+    height: 100px;
+    float: left;
+}
+.addedLast{
+    margin:10px 5px;
+    border: 2px solid darkgrey;
+    box-shadow: 3px 3px maroon;
+}
+input{
+
+}
+p{
+    margin-left: 10px;
+}
+form{
+    margin: 5px;
+    float: left;
+}
+.footer{
+    margin-top: 100px;
+
+    /*height: 50px;*/
+}
+input{
+    margin-bottom: 5px;
+}
+textarea{
+    margin-bottom: 5px;
+}
